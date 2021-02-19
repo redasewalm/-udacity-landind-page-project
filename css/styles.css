@@ -11,7 +11,7 @@
 
 /* ---- Base Rules ---- */
 html {
-    scroll-behavior:smooth
+    scroll-behavior:smooth;
 }
 
 body {

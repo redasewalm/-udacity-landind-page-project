@@ -21,8 +21,10 @@ the project has been converted ftom static to interactive one:
 i have used document fragment to enhance performance of the project.
 
 ## test
+
 -the project meets all the functionality.
 -no errors.
 
-##acknowledgements
+## acknowledgements
+
 -MDN Web Docs.

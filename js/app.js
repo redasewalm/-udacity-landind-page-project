@@ -18,6 +18,7 @@
  * 
  * 
 */
+
 const ulItem = document.querySelector('#navbar__list');
 const fragment =document.createDocumentFragment();
 const sections = document.querySelectorAll('section');
